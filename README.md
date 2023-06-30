@@ -150,7 +150,7 @@ export default function Products({ products }) {
 }
 ```
 
-** Section 8: Dynamic Routes **
+## Section 8: Dynamic Routes
 Next.js allows you to create dynamic routes with parameterized URLs.
 
 Code Snippet:
@@ -191,7 +191,7 @@ export default function Product({ product }) {
 }
 ```
 
-## Section 9: Styling and CSS-in-J
+## Section 9: Styling and CSS-in-JS
 Next.js supports various styling approaches, including CSS-in-JS libraries like styled-components or Emotion.
 
 Code Snippet:
